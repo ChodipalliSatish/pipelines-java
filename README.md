@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/chsatishsatish/AZURE-DevOps-Learning/_apis/build/status/ChodipalliSatish.pipelines-java?branchName=master)](https://dev.azure.com/chsatishsatish/AZURE-DevOps-Learning/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
